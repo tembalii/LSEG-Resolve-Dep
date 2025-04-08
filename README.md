@@ -1,1 +1,1 @@
-# LSEG-Resolve-Dep
+# LSEG-Resolve-Deps
